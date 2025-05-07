@@ -4,7 +4,7 @@ import "../styles/app.css"
 
 function Page() {
   return (
-    <h1>Hello About</h1>
+    <h1>Hello Shop</h1>
   )
 }
 

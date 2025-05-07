@@ -1,4 +1,4 @@
-import logo from "../assets/Logo.png"
+import logo from "/Logo.png"
 import Button from "./Button"
 
 const links = [

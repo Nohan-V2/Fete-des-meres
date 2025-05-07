@@ -21,6 +21,27 @@ const products = [
     name : "pot de fleur",
     price : "20$",
     url : "#"
+  },
+  {
+    id : 4,
+    src : "/fleur-3.png",
+    name : "pot de fleur",
+    price : "20$",
+    url : "#"
+  },
+  {
+    id : 5,
+    src : "/fleur-4.png",
+    name : "pot de fleur",
+    price : "20$",
+    url : "#"
+  },
+  {
+    id : 6,
+    src : "/fleur-5.png",
+    name : "pot de fleur",
+    price : "20$",
+    url : "#"
   }
 ]
 
@@ -28,8 +49,8 @@ function Component() {
   return (
     <section className="present-product-container">
       <div className="present-product-text">
-        <h2>Special fêtes des Mères</h2>
-        <a href="#">Voir plus</a>
+      <h2>Nos fleurs pour le printemps</h2>
+      <a href="#">Découvrir la selection</a>
       </div>
       <ul className="product-wrapper">
         {
